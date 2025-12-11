@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = os.getenv("5936609930:AAFnmbFRYlxu4-fQmQsYong3qQ8OYL39R1c")   # Берём токен с Railway
+TOKEN = os.getenv("5936609930:AAFiOZ0fX1BeggQ63EJzNWzfIsM-NlUlufA")   # Берём токен с Railway
 
 logging.basicConfig(level=logging.INFO)
 
